@@ -291,4 +291,40 @@ author = 'zeyasec'
 - key_system_navigation_right: `adb shell input keyevent 283`
 - key_all_apps: `adb shell input keyevent 284`
 - key_refresh: `adb shell input keyevent 285`
+- key_thumbs_up: `adb shell input keyevent 286`
+- key_thumbs_down: `adb shell input keyevent 287`
+- key_profile_switch: `adb shell input keyevent 288`
+- key_video_app_1: `adb shell input keyevent 289`
+- key_video_app_2: `adb shell input keyevent 290`
+- key_video_app_3: `adb shell input keyevent 291`
+- key_video_app_4: `adb shell input keyevent 292`
+- key_video_app_5: `adb shell input keyevent 293`
+- key_video_app_6: `adb shell input keyevent 294`
+- key_video_app_7: `adb shell input keyevent 295`
+- key_video_app_8: `adb shell input keyevent 296`
+- key_featured_app_1: `adb shell input keyevent 297`
+- key_featured_app_2: `adb shell input keyevent 298`
+- key_featured_app_3: `adb shell input keyevent 299`
+- key_featured_app_4: `adb shell input keyevent 300`
+- key_demo_app_1: `adb shell input keyevent 301`
+- key_demo_app_2: `adb shell input keyevent 302`
+- key_demo_app_3: `adb shell input keyevent 303`
+- key_demo_app_4: `adb shell input keyevent 304`
+- key_keyboard_backlight_down: `adb shell input keyevent 305`
+- key_keyboard_backlight_up: `adb shell input keyevent 306`
+- key_keyboard_backlight_toggle: `adb shell input keyevent 307`
+- key_stylus_button_primary: `adb shell input keyevent 308`
+- key_stylus_button_secondary: `adb shell input keyevent 309`
+- key_stylus_button_tertiary: `adb shell input keyevent 310`
+- key_stylus_button_tail: `adb shell input keyevent 311`
+- key_recent_apps: `adb shell input keyevent 312`
+- key_macro_1: `adb shell input keyevent 313`
+- key_macro_2: `adb shell input keyevent 314`
+- key_macro_3: `adb shell input keyevent 315`
+- key_macro_4: `adb shell input keyevent 316`
+- key_emoji_picker: `adb shell input keyevent 317`
+- key_screenshot: `adb shell input keyevent 318`
 
+## References
+
+- [https://android.googlesource.com/.../KeyEvent.java](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/view/KeyEvent.java)

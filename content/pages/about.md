@@ -1,5 +1,5 @@
 ---
 title: About
-description: 'zeyazec writeup'
+description: 'OSINT | Cyber Security | Digital Forensics | Software Engineer'
 author: zeyasec
 ---

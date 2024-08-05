@@ -5,8 +5,6 @@ draft = false
 author = 'zeyasec'
 +++
 
-# Top 50 Linux Commands You Must Know
-
 - `ls` - view contents of directory (list)
 - `pwd` - path of the current directory
 - `cd` - change directory
